@@ -1,0 +1,126 @@
+<resources>
+
+    //login string
+    //texto
+    <string name="app_name">Dental Care </string>
+    <string name="carLblMensaje">Cargando Aplicacion</string>
+    //login
+    <string name="logTxtCorreo">example@email.com</string>
+    <string name="logTxtClave">*********** </string>
+    //check
+    <string name="logChkRecordar">Recordar Sesión</string>
+    //link
+    <string name="logLblRegistrar">Registrate</string>
+    //botones
+    <string name="logBtnIngresar">Iniciar Sesión</string>
+    <string name="logBtnSalir">Salir</string>
+    //texto
+    <string name="logTitIniciar">Iniciar Sesión</string>
+    <string name="logTitHola">!Hola¡ ¿Estas listos para tener una linda sonrisa colgate?</string>
+    <string name="logTitCorreo">Email</string>
+    <string name="logTitClave">Password </string>
+    <string name="logMegRegistrate">Registrate si no lo estas</string>
+    <string name="logLblCopyRight">Dental Care S.A. </string>
+
+    //recuperar password
+    <string name="recTitPassword">Cambiar Contraseña</string>
+    <string name="recTxtNuevaPassword">Ingrese su nueva contraseña</string>
+    <string name="recTxtRepitaPassword">Repita su contraseña</string>
+
+    //registro string
+    <string name="regTitulo">Registrate  Dental Care</string>
+    //registro
+    <string name="regNombre">Nombre</string>
+    <string name="regApellido">Apellidos</string>
+    <string name="regTxtCorreo">Correo electrónico</string>
+    <string name="regTxtClave">Clave</string>
+    <string name="regFechaNac">Fecha de Nacimiento</string>
+    //texto
+    <string name="regSexo">Sexo</string>
+    <string name="regRbtNoDef">No definido</string>
+    <string name="regRbtMasculino">Masculino</string>
+    <string name="regRbtFemenino">Femenino</string>
+    <string name="regMegIniciar">¿Ya tienes una cuenta?</string>
+    //link
+    <string name="regLblIniciar">Inicia Sesión</string>
+    //check
+    <string name="regLblTerminos">Acepto los términos y condiciones</string>
+    //botones
+    <string name="regContinuar">Continuar</string>
+    <string name="regRegresar">Regresar</string>
+
+
+    //terminos string
+    <string name="termRegresar">Regresar</string>
+    <string name="termTitTerminos">Terminos y Condiciones</string>
+    <string name="termRellTerminos">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna. Aenean velit odio, elementum in tempus ut, vehicula eu diam. Pellentesque rhoncus aliquam mattis. Ut vulputate eros sed felis sodales nec vulputate justo hendrerit. Vivamus varius pretium ligula, a aliquam odio euismod sit amet. Quisque laoreet sem sit amet orci ullamcorper at ultricies metus viverra. Pellentesque arcu mauris, malesuada quis ornare accumsan, blandit sed diam.</string>
+
+    //Bienvenido String
+    <string name="bieLblSaludo">Bienvenido {usuario}</string>
+    //texto //link
+    <string name="bieLblCan1">1- Doctor 1</string>
+    <string name="bieLblCan2">2- Doctor 2</string>
+    <string name="bieLblCan3">3- Doctor 3</string>
+    <string name="bieLblCan4">4- Doctor 4</string>
+    //button
+    <string name="bieBtnSalir">Salir</string>
+
+    //Caracteristicas 1 string
+    <string name="car1Titdoc">Cita con el Doctor 1</string>
+    <string name="car1nombre">Jose Leandro Carbajal  </string>
+    <string name="car1esp">-Cirugía oral y maxilofacial </string>
+    <string name="car1car">-Soy Atento y Meticuloco</string>
+    <string name="car1exp">-Cuento con 7 años de experiencia en el campo.</string>
+
+    <string name="car1BtnAceptar">Aceptar</string>
+    <string name="car1BtnRegresar">Regresar</string>
+
+    //Caracteristicas 2 string
+    <string name="car2Titdoc">Cita con el Doctor 2</string>
+    <string name="car2nombre">Andrea Tijano Arrastegui </string>
+    <string name="car2esp">-Patología maxilofacial y oral </string>
+    <string name="car2car">- Cuento con 6 años de experiencia y curso un doctorado. </string>
+    <string name="car2exp">-Soy perfeccionista y Comprometida</string>
+
+    <string name="car2BtnAceptar">Aceptar</string>
+    <string name="car2BtnRegresar">Regresar</string>
+
+    //Caracteristicas 3 string
+    <string name="car3Titdoc">Cita con el Doctor 3</string>
+    <string name="car3nombre">Luz Prado Lino  </string>
+    <string name="car3esp">-Odontología general</string>
+    <string name="car3car">-Soy extrovertida y aventurera </string>
+    <string name="car3exp">-Cuento con 4 años de experiencia </string>
+
+    <string name="car3BtnAceptar">Aceptar</string>
+    <string name="car3BtnRegresar">Regresar</string>
+
+    //Caracteristicas 4 string
+    <string name="car4Titdoc">Cita con el Doctor 4</string>
+    <string name="car4nombre"> Luiggi Rebatta Smith </string>
+    <string name="car4esp">-Ortodoncia,Prostodoncia y odontología protésica</string>
+    <string name="car4car">-Soy comprometido y Empeñoso </string>
+    <string name="car4exp">-Cuento 10 de años experiencias en el rubro y cuento con varias especialidades en la rama.</string>
+
+    <string name="car4BtnAceptar">Aceptar</string>
+    <string name="car4BtnRegresar">Regresar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Carateristicas string metodo de pago
+    <string name="biepag">Metodo de Pago</string>
+    <string name="biepagBtnTarjeta">Tarjeta</string>
+    <string name="biepagBtnYape">Yape</string>
+    <string name="biepagBtnReg">Regresar</string>
+
+    //Caracteristicas string de tarjeta
+    <string name="TarTitTarjeta">Pago por Tarjeta</string>
+    <string name="TarConfirmar">Confirmar</string>
+    <string name="TarRegresar">Regresar</string>
+
+    //Caracteristicas string de yape
+    <string name="YaTitYape">Pago por Yape</string>
+    <string name="YaConfirmar">Confirmar</string>
+    <string name="YaRegresar">Regresar</string>
+
+</resources>
